@@ -1,0 +1,12 @@
+body {
+  background-color: #d2d2d2;
+}
+.box {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: #badf00;
+}
+p{
+    font-family: Helvetica, Garamond, serif;
+}
